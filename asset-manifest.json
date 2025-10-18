@@ -1,8 +1,9 @@
 {
   "files": {
     "main.css": "/porto/static/css/main.23119b67.css",
-    "main.js": "/porto/static/js/main.6afcc186.js",
+    "main.js": "/porto/static/js/main.c61fa941.js",
     "static/js/453.b05d8aa5.chunk.js": "/porto/static/js/453.b05d8aa5.chunk.js",
+    "static/media/project6.png": "/porto/static/media/project6.79c881a6fd697a083fdb.png",
     "static/media/IMG_0822-modified.jpg": "/porto/static/media/IMG_0822-modified.a96e76d4f26cf958ff00.jpg",
     "static/media/project2.png": "/porto/static/media/project2.a38be9331808490695cc.png",
     "static/media/bg-light.png": "/porto/static/media/bg-light.bac0efb485244a522981.png",
@@ -13,11 +14,11 @@
     "static/media/project5.png": "/porto/static/media/project5.46622057c78e5e1f3712.png",
     "index.html": "/porto/index.html",
     "main.23119b67.css.map": "/porto/static/css/main.23119b67.css.map",
-    "main.6afcc186.js.map": "/porto/static/js/main.6afcc186.js.map",
+    "main.c61fa941.js.map": "/porto/static/js/main.c61fa941.js.map",
     "453.b05d8aa5.chunk.js.map": "/porto/static/js/453.b05d8aa5.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.23119b67.css",
-    "static/js/main.6afcc186.js"
+    "static/js/main.c61fa941.js"
   ]
 }
